@@ -71,7 +71,7 @@ span {
 
 .hero {
     height: 831px;
-    background-image: url(../images/hero-image.png);
+    background-image: url(./images/hero-image.png);
     background-size: cover;
     border-radius: 0px 0px 0px 290px;    
 }
